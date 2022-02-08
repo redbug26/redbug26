@@ -15,7 +15,7 @@
 
 <h4> 📈 My GitHub Stats</h4>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=redbug26&show_icons=true&theme=gotham&count_private=true" alt="redbug26" />
+<img src="https://github-readme-stats.vercel.app/api?username=redbug26&show_icons=true&theme=gotham&count_private=true" alt="redbug26">
 
 <h4> 💻 My GitHub trophies </h4> 
 
