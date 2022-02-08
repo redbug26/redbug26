@@ -8,7 +8,10 @@
 <b> If you like what I do, maybe consider buying me a coffee</b> 🥺👉
 <a href="https://www.buymeacoffee.com/redbug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> 👈
 
-<b> 📫 How to reach me</b>: [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kyuran) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/redbug/)
+<b> 📫 How to reach me</b>: 
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kyuran)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/redbug/)
+[![Chat on Discord](https://img.shields.io/discord/836122114351169546?label=Discord&style=social)](https://t.co/Gowh0L39dB)
 
 <h4> 📈 My GitHub Stats</h4>
 
