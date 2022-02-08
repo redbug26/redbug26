@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on
 - retrograming with [Crazy Piri team](https://crazypiri.eu)
+- keepass with [KyPass](https://itunes.apple.com/us/app/kypass-4-password-manager/id1258708743?mt=8)
+- jeedom with [Tahoma Plugin](https://github.com/redbug26/jeedom-tahoma)
 
 <!-- 🌱 I’m currently learning security
 - 👯 I’m looking to collaborate on ...
